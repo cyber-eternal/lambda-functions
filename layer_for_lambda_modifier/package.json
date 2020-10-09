@@ -1,0 +1,21 @@
+{
+  "name": "layer_for_lambda_modifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && mkdir -p nodejs && cp -r node_modules nodejs/ && zip -r layer_for_lambda_modifier.zip nodejs"
+  },
+  "author": "cyber-eternal",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "de4js": "^1.6.3",
+    "escodegen": "^2.0.0",
+    "esmangle": "^1.0.1",
+    "esprima": "^4.0.1",
+    "html-minifier": "^4.0.0",
+    "js-beautify": "^1.11.0",
+    "unibeautify": "^0.17.1"
+  }
+}
