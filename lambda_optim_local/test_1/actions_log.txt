@@ -1,0 +1,50 @@
+2020-10-11T14:41:27.164Z | file | .DS_Store | OK | No minification required for false files 
+2020-10-11T14:41:27.166Z | minify | css/style.css | OK | File minified 
+2020-10-11T14:41:27.167Z | minify | css/test/style.css | OK | File minified 
+2020-10-11T14:41:27.167Z | file | file.png | OK | No minification required for png files 
+2020-10-11T14:41:27.167Z | file | file1.png | OK | No minification required for png files 
+2020-10-11T14:41:27.167Z | file | file2.png | OK | No minification required for png files 
+2020-10-11T14:41:27.167Z | file | html/.DS_Store | OK | No minification required for false files 
+2020-10-11T14:41:27.169Z | minify | html/index.html | OK | File minified 
+2020-10-11T14:41:27.169Z | minify | html/test/index.html | OK | File minified 
+2020-10-11T14:41:27.170Z | minify | html-test/index.html | OK | File minified 
+2020-10-11T14:41:27.170Z | minify | index.js | OK | File minified 
+2020-10-11T14:41:27.170Z | minify | js/index - Copy.js | OK | File minified 
+2020-10-11T14:41:27.170Z | minify | js/index.js | OK | File minified 
+2020-10-11T14:41:27.171Z | minify | js/script/index.js | OK | File minified 
+2020-10-11T14:41:27.171Z | minify | js1/index.js | OK | File minified 
+2020-10-11T14:41:27.171Z | minify | js1/script.js | OK | File minified 
+
+ 2020-10-11T14:43:38.378Z | file | .DS_Store | OK | No minification required for false files 
+
+ 2020-10-11T14:43:38.379Z | file | actions_log.txt | OK | No minification required for txt files 
+
+ 2020-10-11T14:43:38.381Z | minify | css/style.css | OK | File minified 
+
+ 2020-10-11T14:43:38.381Z | minify | css/test/style.css | OK | File minified 
+
+ 2020-10-11T14:43:38.381Z | file | file.png | OK | No minification required for png files 
+
+ 2020-10-11T14:43:38.381Z | file | file1.png | OK | No minification required for png files 
+
+ 2020-10-11T14:43:38.381Z | file | file2.png | OK | No minification required for png files 
+
+ 2020-10-11T14:43:38.381Z | file | html/.DS_Store | OK | No minification required for false files 
+
+ 2020-10-11T14:43:38.383Z | minify | html/index.html | OK | File minified 
+
+ 2020-10-11T14:43:38.384Z | minify | html/test/index.html | OK | File minified 
+
+ 2020-10-11T14:43:38.384Z | minify | html-test/index.html | OK | File minified 
+
+ 2020-10-11T14:43:38.384Z | minify | index.js | OK | File minified 
+
+ 2020-10-11T14:43:38.385Z | minify | js/index - Copy.js | OK | File minified 
+
+ 2020-10-11T14:43:38.385Z | minify | js/index.js | OK | File minified 
+
+ 2020-10-11T14:43:38.385Z | minify | js/script/index.js | OK | File minified 
+
+ 2020-10-11T14:43:38.385Z | minify | js1/index.js | OK | File minified 
+
+ 2020-10-11T14:43:38.385Z | minify | js1/script.js | OK | File minified 

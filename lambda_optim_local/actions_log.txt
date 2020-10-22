@@ -1,0 +1,2 @@
+2020-10-11T14:38:22.330Z | file | .DS_Store | OK | No minification required for false files 
+2020-10-11T14:39:36.571Z | file | .DS_Store | OK | No minification required for false files 
